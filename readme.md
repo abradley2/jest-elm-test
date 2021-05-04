@@ -23,6 +23,6 @@ cd ..
 
 cd mocha
 time npm test
-cd..
+cd ..
 
 ```

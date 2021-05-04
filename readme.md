@@ -21,4 +21,8 @@ cd tape-test
 time npm test
 cd ..
 
+cd mocha
+time npm test
+cd..
+
 ```
